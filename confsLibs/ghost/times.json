@@ -1,0 +1,12 @@
+{
+    "waitFast" : 500000,
+    "wait" : 1000000,
+    "waitagain" : 3000000,
+    "waitLow" : 5000000,
+
+    "writeFast" : 40000,
+    "write" : 100000,
+    "writeLow" : 200000,
+
+    "inst" : 0
+}
