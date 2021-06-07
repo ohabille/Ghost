@@ -1,5 +1,0 @@
-{
-    "Key" : "app.set_talk",
-    "Return" : "app.set_command",
-    "BackSpace" : "app.del_last_char"
-}

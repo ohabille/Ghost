@@ -1,7 +1,4 @@
 {
-    "gui" : {
-        "path" : "gui"
-    },
     "ghost" : {
         "path" : "ghost"
     }
